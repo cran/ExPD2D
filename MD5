@@ -1,0 +1,14 @@
+a8e8c82d9a17d24de980223facfaa1db *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+0c472e3337d32ef0f33924f86d3360c4 *R/pdpoint.R
+f44e150f0d25a1a873b1f630d4896884 *R/pdsample.R
+9cf0728054ee865b161cbbe63585f2dc *R/pdsample1.R
+319314f0ff6b5a998b1179beb1fe3b89 *data/pds.rda
+3a30aed21b820d8f3afe0a9088d78626 *man/ExPD2D-package.Rd
+b723939028772ad4e6d2ada354f24102 *man/pdpoint.Rd
+49b9eca4dae0f59825bdb2133c956142 *man/pds.Rd
+05677d6cf057fe367174a5e2edd49a47 *man/pdsample.Rd
+1c730467f4565490a5098097c9d18878 *man/pdsample1.Rd
+54c7bfb96c3290b1feb3924cef2d8cc6 *src/pdpoint.f
+d46571f560b8248552af105488d8711f *src/pdsample.f
+a0bfdb5bbd607a2a20150fb0c1f58ec1 *src/select.f
